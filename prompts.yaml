@@ -1,0 +1,4 @@
+- url_pattern: "/joke"
+  prompt_text: "Tell me a {input} joke."
+- url_pattern: "/story"
+  prompt_text: "Write a short story about a {input}."
